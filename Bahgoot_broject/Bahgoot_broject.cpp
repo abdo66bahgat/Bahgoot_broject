@@ -3,9 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "First version\n";
+    cout << "First version\n";
+    cout << "second version\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
