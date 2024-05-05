@@ -9,7 +9,7 @@ int main()
 {
     cout << "First version\n";
     cout << "second version\n";
-
+    cout << "push";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
